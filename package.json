@@ -1,7 +1,12 @@
 {
-  "name": "vite-project",
-  "private": true,
-  "version": "0.0.0",
+  "name": "light",
+  "description": "Experimental 3d renderer. - Not ready for production",
+  "version": "1.0.0",
+  "author": "Pravin Kumar <pravinshanmugam1995@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PravinKumar95/light.git"
+  },
   "type": "module",
   "exports": {
     ".": {
